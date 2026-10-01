@@ -1,0 +1,4 @@
+vectorstore_ita/
+__pycache__/
+*.pkl
+.env
